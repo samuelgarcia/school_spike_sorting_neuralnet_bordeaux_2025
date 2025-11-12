@@ -1,53 +1,49 @@
-# SpikeInterface Training Lyon November 2025
+# SpikeInterface Training Bordeaux November 2025
 
-Material for SpikeInterface Tutorial Lyon November 2025
-
+Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR NeuralNet, November 2025 by Pierre Yger and Samuel Garcia
 
 ## Schedule
-
-10h30-12h00 : 
 
 
 **Tuesday 25 9h00 - 12h00**
 
-  * **Introduction to Spike Sorting** Pierre 1h30
-  * **Introduction to `SpikeInterface`** Sam 30min
-  * **Chek you install / download** 15min 
+  * **Introduction to Spike Sorting** (1h30) [P. Yger]
+  * **Introduction to `SpikeInterface`** (30min) [S. Garcia]
+  * **Chek you install / download** 15min [both]
 
 
-  * **Tutorial 1** Reading + Manipulation (20 min) Sam
+  * **Tutorial 1** Reading + Manipulation (20 min) [S. Garcia]
     - Read and visualise data
     - The importance of probes
 
 
 **Tuesday 25 13h00 - 17h00**
 
-  * **Tutorial 2** Preprocessing (45 min) Pierre
+  * **Tutorial 2** Preprocessing (45 min) [P. Yger]
     - Apply and visualize preprocessing 
     - Detect bad channels
     - Motion correction
 
-  * **Tutorial 3** Spike sort (45 min) Sam
+  * **Tutorial 3** Spike sort (45 min) [S. Garcia]
     - Run a spike sorter
     - Compare spike sorter outputs
 
-  * **Tutorial 4**  Analyze Sorting (45 min) Pierre
+  * **Tutorial 4**  Analyze Sorting (45 min) [P. Yger]
     - Create a `SortingAnalyzer` to explore your sorting
     - Compute some extensions
     - Play with the extension outputs
 
-  * **Tutorial 5**  Manual curation with Spikeinterface GUI (45min) Sam
+  * **Tutorial 5**  Manual curation with Spikeinterface GUI (45min) [S. Garcia]
     - demo
 
-  * **Tutorial 6**  Automaatic uration (45 min) Pierre
+  * **Tutorial 6**  Automaatic uration (45 min) [P. Yger]
     - Simple, threshold-based curation
     - Curation using ML models
     - Merging units
 
 **Wednesday 26 9h00 - 12h00**
 
-  * **Spike sorting on your own data**
-  * or **Spike sorting on other datasets**
+  * **Spike sorting on your own and/or other dataset** [both]
 
 
 
