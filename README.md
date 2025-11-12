@@ -4,7 +4,7 @@ Material for the SpikeInterface Tutorial organized in Bordeaux during the GDR Ne
 
 ## Schedule
 
-## Monday 25/11
+## Tuesday 25/11
 
   **Morning session (9h00 - 12h00)**
 
